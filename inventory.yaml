@@ -1,0 +1,7 @@
+virtualmachines:
+  hosts:
+      192.168.100.122:
+      192.168.100.123:
+  vars:
+    ansible_user: cristine
+    ansible_ssh_private_key_file: /home/cristine/.ssh/id_rsa 
